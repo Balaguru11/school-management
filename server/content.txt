@@ -1,0 +1,18 @@
+Staff
+
+Name
+employee id
+SpecialTopic
+classteacher
+
+
+
+Student
+
+Name
+Class
+
+
+
+Class
+	Topics
